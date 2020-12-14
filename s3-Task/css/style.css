@@ -1,0 +1,9 @@
+textarea {
+  resize: none;
+}
+article {
+  box-sizing: content-box;
+}
+#error {
+  background-color: rgba(255, 0, 0, 0.4);
+}
